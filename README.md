@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm Bryan, a hardware and robotics enthusiast! I'm a incoming sophmore at Gretchen Whitney High School. I'm active in Science Olympiad, FTC, and Hack Club!
-Currently, I am working on many projects that are funded by Highway. 
+I'm Bryan, a hardware and robotics enthusiast! I'm a incoming sophmore at Gretchen Whitney High School. I'm active in Science Olympiad and FTC!
+
 
 <!--
 **AmbassadorDoge/AmbassadorDoge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
